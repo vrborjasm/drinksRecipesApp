@@ -11,6 +11,7 @@
 <ul>
   <li>React</li>
   <li>Hooks</li>
+  <li>Context</li>
   <li>Material UI</li>
   <li>Axios</li>
   <li>APIs</li>
